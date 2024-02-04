@@ -1,0 +1,200 @@
+Sample Number: 1
+X Coordinate: 7205.29
+Y Coordinate: 7026.34
+Cluster ID: 1
+
+Sample Number: 2
+X Coordinate: 15537.4
+Y Coordinate: 25168.8
+Cluster ID: 1
+
+Sample Number: 3
+X Coordinate: 22828.8
+Y Coordinate: 21365.3
+Cluster ID: 1
+
+Sample Number: 4
+X Coordinate: 24497
+Y Coordinate: 4616.42
+Cluster ID: 1
+
+Sample Number: 5
+X Coordinate: 28800.6
+Y Coordinate: 21073.1
+Cluster ID: 1
+
+Sample Number: 6
+X Coordinate: 36049.8
+Y Coordinate: 22340.5
+Cluster ID: 4
+
+Sample Number: 7
+X Coordinate: 44214.7
+Y Coordinate: 22114
+Cluster ID: 4
+
+Sample Number: 8
+X Coordinate: 57381.8
+Y Coordinate: 12161.4
+Cluster ID: 4
+
+Sample Number: 9
+X Coordinate: 14489.9
+Y Coordinate: 34680.2
+Cluster ID: 2
+
+Sample Number: 10
+X Coordinate: 21982.4
+Y Coordinate: 33788
+Cluster ID: 3
+
+Sample Number: 11
+X Coordinate: 25546.7
+Y Coordinate: 32441.8
+Cluster ID: 3
+
+Sample Number: 12
+X Coordinate: 28010.4
+Y Coordinate: 28332.2
+Cluster ID: 3
+
+Sample Number: 13
+X Coordinate: 31668
+Y Coordinate: 31234
+Cluster ID: 3
+
+Sample Number: 14
+X Coordinate: 35325.6
+Y Coordinate: 31561.3
+Cluster ID: 3
+
+Sample Number: 15
+X Coordinate: 39010.3
+Y Coordinate: 32965.9
+Cluster ID: 4
+
+Sample Number: 16
+X Coordinate: 46538.5
+Y Coordinate: 32770.8
+Cluster ID: 4
+
+Sample Number: 17
+X Coordinate: 15642.4
+Y Coordinate: 38977.9
+Cluster ID: 2
+
+Sample Number: 18
+X Coordinate: 21748.6
+Y Coordinate: 39878
+Cluster ID: 2
+
+Sample Number: 19
+X Coordinate: 27669.2
+Y Coordinate: 38378.6
+Cluster ID: 3
+
+Sample Number: 20
+X Coordinate: 31878.1
+Y Coordinate: 37932.5
+Cluster ID: 3
+
+Sample Number: 21
+X Coordinate: 34261.8
+Y Coordinate: 39477.4
+Cluster ID: 3
+
+Sample Number: 22
+X Coordinate: 37838.3
+Y Coordinate: 37735.5
+Cluster ID: 3
+
+Sample Number: 23
+X Coordinate: 41800.6
+Y Coordinate: 38697.3
+Cluster ID: 4
+
+Sample Number: 24
+X Coordinate: 49314.9
+Y Coordinate: 37871.7
+Cluster ID: 4
+
+Sample Number: 25
+X Coordinate: 17135.7
+Y Coordinate: 46455
+Cluster ID: 2
+
+Sample Number: 26
+X Coordinate: 23585.3
+Y Coordinate: 44119.1
+Cluster ID: 2
+
+Sample Number: 27
+X Coordinate: 25526.2
+Y Coordinate: 47274.6
+Cluster ID: 5
+
+Sample Number: 28
+X Coordinate: 30190.4
+Y Coordinate: 47481
+Cluster ID: 5
+
+Sample Number: 29
+X Coordinate: 31036.1
+Y Coordinate: 46460.2
+Cluster ID: 5
+
+Sample Number: 30
+X Coordinate: 33143.7
+Y Coordinate: 45669.8
+Cluster ID: 5
+
+Sample Number: 31
+X Coordinate: 37541.5
+Y Coordinate: 43224.2
+Cluster ID: 5
+
+Sample Number: 32
+X Coordinate: 47002.1
+Y Coordinate: 42756
+Cluster ID: 4
+
+Sample Number: 33
+X Coordinate: 5679.07
+Y Coordinate: 53699.1
+Cluster ID: 2
+
+Sample Number: 34
+X Coordinate: 16606.4
+Y Coordinate: 51845.2
+Cluster ID: 2
+
+Sample Number: 35
+X Coordinate: 21080.5
+Y Coordinate: 52770.8
+Cluster ID: 2
+
+Sample Number: 36
+X Coordinate: 27605.6
+Y Coordinate: 50730.4
+Cluster ID: 5
+
+Sample Number: 37
+X Coordinate: 31389.8
+Y Coordinate: 48627.2
+Cluster ID: 5
+
+Sample Number: 38
+X Coordinate: 31983.1
+Y Coordinate: 51902.7
+Cluster ID: 5
+
+Sample Number: 39
+X Coordinate: 34647
+Y Coordinate: 49621.2
+Cluster ID: 5
+
+Sample Number: 40
+X Coordinate: 37795
+Y Coordinate: 49497.5
+Cluster ID: 5
+
